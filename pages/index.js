@@ -18,12 +18,6 @@ export default function Home() {
       <Head>
         <title>CertiWall - Certificate Verification</title>
         <meta name="description" content="Verify certificates with CertiWall" />
-      <style>
-      footer{
-        position:fixed;
-        bottom:0;
-      }
-      </style>
       </Head>
 
       <nav className="navbar">
