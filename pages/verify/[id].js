@@ -184,9 +184,7 @@ export default function VerifyCertificate() {
               </div>
 
               <div style={{textAlign: 'center', marginTop: '2rem'}}>
-                <button onClick={() => window.print()} className="btn btn-success">
-                  🖨️ Print Certificate
-                </button>
+               
                 <button 
                   onClick={() => router.push('/')} 
                   className="btn" 
