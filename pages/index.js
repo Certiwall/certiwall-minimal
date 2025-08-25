@@ -68,7 +68,7 @@ export default function Home() {
 
       <footer className="footer">
         <div className="container">
-          <p>&copy; 2024 <a style="color:red" href="https://github.com/certiwall/">CertiWall</a> - Made with ❤️</p>
+          <p>&copy; 2025 <a style="color:red" href="https://github.com/certiwall/">CertiWall</a> - Made with ❤️</p>
         </div>
       </footer>
     </>
